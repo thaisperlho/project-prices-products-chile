@@ -271,3 +271,4 @@ def main():
     console.rule("")
     return dataframe
 
+dataframe = main()
